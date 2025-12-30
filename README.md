@@ -1,1 +1,1 @@
-# NeuroImage Preprocessing Toolkit
+# EEG Processing Toolkit
